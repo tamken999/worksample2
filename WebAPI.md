@@ -9,7 +9,7 @@ WebAPIはインターネットを経由してプログラムを呼び出し、
 **つまり、インターネットに公開されているWebAPIを使えば、**  
 **より効率的にアプリケーションを開発することができるようになります。**  
 
-![WebAPIとは](https://raw.githubusercontent.com/tamken999/APIとは.jpg)  
+![WebAPIとは](https://github.com/tamken999/worksample2/blob/master/APIとは.jpg)  
   
   
 ## どのように動作するのか？  
@@ -20,12 +20,12 @@ WebAPIはインターネットを経由してプログラムを呼び出し、
 要求を出すときはHTTPを利用します。  
 そしてHTMLが送られてきてサイトが表示されます。  
 
-![Webブラウザ](https://raw.githubusercontent.com/tamken999/webブラウザ.jpg)  
+![Webブラウザ](https://github.com/tamken999/worksample2/blob/master/Webブラウザ.jpg)  
 
 WebAPIも同じようにHTTPで要求を出し、そして  
 プログラムが必要とするデータが、主にJSONで送られてきます。  
   
-![WebAPI](https://raw.githubusercontent.com/tamken999/WebAPI.jpg)  
+![WebAPI](https://github.com/tamken999/worksample2/blob/master/WebAPI.jpg)  
   
   
 ## WebAPIの例  
