@@ -20,7 +20,7 @@ WebAPIはインターネットを経由してプログラムを呼び出し、
 要求を出すときはHTTPを利用します。  
 そしてHTMLが送られてきてサイトが表示されます。  
 
-![Webブラウザ](https://github.com/tamken999/worksample2/blob/master/Webブラウザ.jpg)  
+![Webブラウザ](https://github.com/tamken999/worksample2/blob/master/webブラウザ.jpg)  
 
 WebAPIも同じようにHTTPで要求を出し、そして  
 プログラムが必要とするデータが、主にJSONで送られてきます。  
